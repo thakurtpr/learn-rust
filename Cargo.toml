@@ -1,0 +1,4 @@
+[workspace]
+members = [
+    "01foundations/p2_simple_calculator"
+]
