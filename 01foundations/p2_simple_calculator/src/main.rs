@@ -22,6 +22,5 @@ fn main(){
     println!("Sum of the no is : {}",sum);
     println!("Difference of the no is : {}",diff);
     println!("Multiplication of the no is : {}",multi);
-    
 
 }
