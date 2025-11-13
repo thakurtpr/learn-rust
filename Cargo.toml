@@ -1,5 +1,0 @@
-[workspace]
-members = [  "01foundations/basicsPractice", 
-    "01foundations/guessing_game",
-    "01foundations/p2_simple_calculator"
-, "01foundations/p3_payment_system", ]
